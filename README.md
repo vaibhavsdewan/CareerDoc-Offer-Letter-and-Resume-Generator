@@ -18,7 +18,7 @@ CareerDoc streamlines the process of creating professional documents, making it 
 ![Home Page](screenshots/screenshot01.png)
 ![Home Page](screenshots/screenshot02.png)
  
-Select any of the options (Resume/Offer letter)
+- Select any of the options (Resume/Offer letter)
 
 ![Home Page](screenshots/screenshot03.png)
 ![Home Page](screenshots/screenshot04.png)
@@ -34,7 +34,7 @@ Select any of the options (Resume/Offer letter)
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- ** User Authentication**: Google OAuth 2.0
+- **User Authentication**: Google OAuth 2.0
 
 
 ## Installation
