@@ -7,7 +7,6 @@ CareerDoc is a comprehensive Offer letter and Resume Generator built using Mongo
 
 - **Resume Generation**: Users can create professional resumes quickly.
 - **Offer Letter Creation**: HR teams can generate tailored offer letters.
-- **Secure Login**: Integrated Google OAuth 2.0 for user authentication.
 - **User-Friendly Interface**: Simple and intuitive UI for ease of use.
 - **Real-Time Data**: Data storage and retrieval with MongoDB for real-time updates.
 
@@ -46,17 +45,13 @@ CareerDoc is a comprehensive Offer letter and Resume Generator built using Mongo
    git clone https://github.com/vaibhavsdewan/CareerDoc-Offer-Letter-and-Resume-Generator.git
 
 2. Navigate to the project directory.
-  
 3. Install dependencies for both frontend and backend:
 cd backend
 npm install
 cd frontend
 npm install
-
 4. Set up environment variables.
-
 5. Start the development server.
-
 6. Open the app in your browser.
 
 
