@@ -1,8 +1,7 @@
 # CareerDoc - Offer Letter and Resume Generator
 
 ## Project Overview
-CareerDoc is a comprehensive offer letter and resume generator built using MongoDB, ExpressJS, ReactJS, NodeJS and Google OAuth.
-It streamlines the process of creating professional documents, making it a valuable tool for job seekers and HR professionals.
+CareerDoc is a comprehensive Offer letter and Resume Generator built using MongoDB, ExpressJS, ReactJS, NodeJS and Google OAuth. It streamlines the process of creating professional career related documents, making it a valuable tool for job seekers and HR professionals.
 
 ## Features
 
@@ -13,9 +12,12 @@ It streamlines the process of creating professional documents, making it a valua
 - **Real-Time Data**: Data storage and retrieval with MongoDB for real-time updates.
 
 ## Screenshots
+
 ### Homepage
+
 ![Home Page](screenshots/screenshot01.png)
 ![Home Page](screenshots/screenshot02.png)
+
  
 - Select any of the options (Resume/Offer letter)
 
@@ -28,7 +30,7 @@ It streamlines the process of creating professional documents, making it a valua
 ![Login Page](screenshots/screenshot05.png)
 
 
-  ## Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js
 - **Backend**: Node.js, Express.js
